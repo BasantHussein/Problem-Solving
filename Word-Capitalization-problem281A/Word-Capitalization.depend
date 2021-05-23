@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615570386 source:f:\basant\codeblockscodes\word-capitalization\main.cpp
+	<iostream>
+	<string>
+	<cctype>
+
