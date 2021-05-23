@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1615306707 source:f:\basant\codeblockscodes\meeting-old-friend\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
