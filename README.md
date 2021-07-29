@@ -1,3 +1,3 @@
 # Problem-Solving
 
-Solved problems from codeforces
+Solved problems from codeforces and hackerrank
