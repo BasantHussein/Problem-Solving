@@ -1,8 +1,6 @@
-#
-# Complete the 'countSwaps' function below.
-#
-# The function accepts INTEGER_ARRAY a as parameter.
-#
+
+# The function accepts INTEGER_ARRAY a as parameter and n:the length of the array.
+
 
 def countSwaps(a,n):
     count = 0
